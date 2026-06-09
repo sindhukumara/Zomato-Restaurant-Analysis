@@ -1,8 +1,8 @@
- 									Zomato Restaurant Analysis
+Zomato Restaurant Analysis
 
 Project Overview
 
-This project analyzes restaurant data from Zomato using Python and Pandas. The objective is to identify customer preferences, restaurant performance, and business trends through exploratory data analysis.
+This project analyzes restaurant data from Zomato using Python and Pandas to understand customer preferences, restaurant performance, and business trends.
 
 Tools Used
 
@@ -18,14 +18,22 @@ Dataset Information
 - Total Records: 148
 - Total Columns: 7
 
+Project Workflow
+
+1. Imported the dataset using Pandas.
+2. Explored the structure of the dataset.
+3. Checked for missing values and data quality.
+4. Converted restaurant ratings into numeric values.
+5. Analyzed restaurant categories, ratings, votes, online ordering, and table booking trends.
+6. Created visualizations to identify patterns and business insights.
+
 Key Findings
 
 - Dining restaurants dominate the dataset.
 - Empire Restaurant received the highest number of customer votes.
-- Restaurants with table booking facilities have higher average ratings.
+- Restaurants with table booking have higher average ratings.
 - Buffet and Other restaurant categories achieved the highest average ratings.
-- Customer behavior was analyzed using ratings, votes, and restaurant categories.
 
 Conclusion
 
-This project demonstrates the use of Python for data cleaning, analysis, visualization, and business insight generation.
+This project demonstrates the use of Python for data cleaning, exploratory data analysis, visualization, and business insight generation.
